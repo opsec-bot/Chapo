@@ -1,4 +1,4 @@
-module chapo
+module github.com/opsec-bot/Chapo
 
 go 1.20
 
